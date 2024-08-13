@@ -1,0 +1,5 @@
+Se implemento lo siguiente:
+*spring boot 3.3.2 con java 21.
+*spiring security.
+*jdbc:postgresql.
+**nota: el script de base de datos se encuetra en la raiz.**
